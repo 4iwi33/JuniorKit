@@ -6,11 +6,11 @@ $person = [
     "surname" => "Doe ",
     "age" => 30,
     "months" => [
-        "January",
-        "February",
-        "March",
-        "April",
-        "May"
+                    "January",
+                    "February",
+                    "March",
+                    "April",
+                    "May"
     ]
 ];
 
