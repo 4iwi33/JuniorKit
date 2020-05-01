@@ -1,6 +1,7 @@
 <?php
 
-$months = ["January", "February", "March", "April", "May"];
+// $months = ["January", "February", "March", "April", "May"];
+
 $person = [
     "name" => "John ",
     "surname" => "Doe ",
