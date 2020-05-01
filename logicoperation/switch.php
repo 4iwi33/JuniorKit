@@ -1,13 +1,12 @@
 <?php
 
-switch ($super) {
-    case "Cool":
-        echo "Super равно Cool";
+$a = 3;
+
+switch ($a) {
+    case ($a >= 10):
+        echo "3 > либо = 10";
         break;
-    case "Nice":
-        echo "Super равно Nice";
-        break;
-    case "Bad":
-        echo "Super равно Bad";
+    case ($a <= 10):
+        echo "3 < либо = 10";
         break;
 }
