@@ -10,8 +10,8 @@ $birth = [
 
 ];
 
-foreach ($birth as $k => $v)
-    echo "$k Was Born $v <br>";
+foreach ($birth as $key => $value)
+    echo "$key Was Born $value <br>";
 
-// $k - это ключи(имена) 
-// $v -это значения(даты)
+// $key - это ключи(имена) 
+// $value -это значения(даты)
