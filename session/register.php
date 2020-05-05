@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <form action="register.php" method="POST">
+    <form action="complete.php" method="POST">
         <p>
             <label>Username</label>
             <input type="text" name="username">
